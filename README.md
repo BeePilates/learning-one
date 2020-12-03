@@ -1,2 +1,2 @@
 # learning-one
-learning with Gardo
+I am learning with Gardo. This is a readme.
